@@ -1,0 +1,28 @@
+/* 
+.ammu{ */
+   /* margin-left: 500px;
+ margin-top: 300px; */
+    /* width: 100vw;
+    display: flex ;
+    justify-content: space-around;
+
+} */
+
+.link_hello{
+    
+    margin-left: 990px;
+}
+
+
+.banner{
+    height: 520px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/027/966/131/non_2x/banner-with-skier-rides-on-skis-in-mountain-man-is-skiing-down-hill-winter-outdoor-activities-sport-wintertime-fun-mountain-landscape-vector.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nav-item{
+    margin-left: 100px;
+}
+
+
+

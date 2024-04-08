@@ -1,0 +1,54 @@
+/* .profile-box{
+  text-align: center;
+  padding: 40px 90px;
+  color: #fff;
+  position: relative;
+  border-radius: 100px;
+} */
+/* .container{
+    display: flex;
+    align-items: center;
+} */
+.anu{
+    text-align: center;
+}
+.img6{
+    width: 200px;
+    margin-left: 40px;
+}
+.cardss{
+    margin-left: 550px;
+    border: 3px solid black;
+    /* border-radius: 10px;
+    height: 100px; */
+    /* width: 100px; */
+    border-radius: 10px;
+
+  
+}
+.about{
+    text-align: center;
+}
+.bs{
+    text-align: center;
+}
+.edu{
+    text-align: center;
+}
+.save{
+    text-align: cender;
+}
+.dev{
+    text-align: center;
+}
+/* .p{
+    background-color: aqua;
+} */
+.class3{
+margin-top: -700px;
+}
+.p{
+    margin-left: 150px;
+    margin-top: 250px;
+}
+
